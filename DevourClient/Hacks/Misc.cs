@@ -50,7 +50,7 @@ namespace DevourClient.Hacks
         {
 			NolanRankController NolanRank = UnityEngine.Object.FindObjectOfType<NolanRankController>();
 
-			NolanRank.SetRank(70);
+			NolanRank.SetRank(Anna Puerta);
 		}
 
 		public static void MessageSpam(string message)
